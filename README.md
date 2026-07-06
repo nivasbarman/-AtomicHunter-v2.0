@@ -15,7 +15,7 @@ AtomicHunter/
 │   ├── findings.py         # Finding management
 │   ├── reporter.py         # Report generator (HTML/JSON/CSV/PDF)
 │   ├── ai_analyzer.py      # Universal AI (OpenAI/Claude/Gemini/Kimi/Custom)
-│   ├── utils.py            # Logger, Colorizer, FileManager
+│   ├── utils.py            # Logger, Colourizer, FileManager
 │   ├── cli.py              # Command line parser
 │   ├── banner.py           # ASCII banners
 │   └── __init__.py
